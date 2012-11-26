@@ -1,0 +1,12 @@
+c:\users\townsuite\documents\visual studio 2012\Projects\Student_Registration\Student_Registration\bin\Debug\Student_Registration.exe.config
+C:\Users\Dell\Desktop\Student_Registration\Student_Registration\bin\Debug\Student_Registration.exe.config
+C:\Users\Dell\Desktop\Student_Registration\Student_Registration\obj\Debug\Student_Registration.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Student_Registration\Student_Registration\obj\Debug\Student_Registration.Form1.resources
+C:\Users\Dell\Desktop\Student_Registration\Student_Registration\obj\Debug\Student_Registration.Form2.resources
+C:\Users\Dell\Desktop\Student_Registration\Student_Registration\obj\Debug\Student_Registration.Form3.resources
+C:\Users\Dell\Desktop\Student_Registration\Student_Registration\obj\Debug\Student_Registration.Properties.Resources.resources
+C:\Users\Dell\Desktop\Student_Registration\Student_Registration\obj\Debug\Student_Registration.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Student_Registration\Student_Registration\bin\Debug\Student_Registration.exe
+C:\Users\Dell\Desktop\Student_Registration\Student_Registration\bin\Debug\Student_Registration.pdb
+C:\Users\Dell\Desktop\Student_Registration\Student_Registration\obj\Debug\Student_Registration.exe
+C:\Users\Dell\Desktop\Student_Registration\Student_Registration\obj\Debug\Student_Registration.pdb
